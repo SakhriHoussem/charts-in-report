@@ -8,4 +8,4 @@ pip install matplotlib
 
 ## Resultat : 
 
-![figure of pdf Resultat](img/report-fig.png)
+![figure of pdf Resultat](img/report-fig.PNG)
