@@ -5,3 +5,7 @@ just install [matplotlib](https://matplotlib.org)
 ```python
 pip install matplotlib
 ```
+
+## Resultat : 
+
+![figure of pdf Resultat](img/report-fig.png)
