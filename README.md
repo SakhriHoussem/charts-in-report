@@ -1,2 +1,7 @@
 # graph-in-report
-generate a graph in pdf report using matploltlib library
+generate a graph in pdf report using [matplotlib](https://matplotlib.org) library
+
+just install [matplotlib](https://matplotlib.org)
+```python
+pip install matplotlib
+```
