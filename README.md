@@ -6,6 +6,6 @@ just install [matplotlib](https://matplotlib.org)
 pip install matplotlib
 ```
 
-## Resultat : [pdf](plot.pdf)
+## Resultat : [pdf](report.pdf)
 
 ![figure of pdf Resultat](img/report-fig.PNG)
